@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apple-pie {
+    font-size: 50px;
+    background-image: url("../images/apple-pie.jpg");
+    height: 900px;
+    background-size: cover;
+    background-position: 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 50;
+}
+
+
+
+#recipe-info {
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#recipe-info img {
+
+}
+
+
