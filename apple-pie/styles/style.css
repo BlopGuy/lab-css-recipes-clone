@@ -29,8 +29,22 @@ body {
     align-items: center;
 }
 
-#recipe-info img {
+#ingredients-info {
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
+
+#direction-info {
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
